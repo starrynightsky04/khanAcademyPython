@@ -8,4 +8,3 @@ url = "https://" + language_code + ".khanacademy.org/" + subject
 
 print("Navigate to the " + subject + " page below!")
 print(url)
-
