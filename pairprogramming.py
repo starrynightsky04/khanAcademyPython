@@ -8,7 +8,7 @@ print("4" + "3.1" + "5.8")
 
 # Display a divider surrounded by blank lines.
 print()
-print("-----------")
+print("--------------")
 print()
 
 print("Evaluating integer and float expressions...")
